@@ -1,0 +1,15 @@
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\BadWordsRemover.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\BadWordsRemover.pdb
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\Assembly-CSharp.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\Mirror.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\Smod2.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\UnityEngine.CoreModule.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\System.Memory.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\bin\Debug\System.Buffers.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\obj\Debug\BadWordsRemover.csprojAssemblyReference.cache
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\obj\Debug\BadWordsRemover.csproj.CoreCompileInputs.cache
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\obj\Debug\BadWordsRemover.csproj.CopyComplete
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\obj\Debug\BadWordsRemover.dll
+C:\codes\sm_plugins_g\BadWordsRemover\BadWordsRemover\obj\Debug\BadWordsRemover.pdb
