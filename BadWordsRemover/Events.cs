@@ -22,7 +22,7 @@ namespace BadWordsRemover
 		}
 
 		public void OnWaitingForPlayers(WaitingForPlayersEvent ev)
-        {
+        	{
 			if (plugin.GetConfigBool("bwr_disable"))
 			{
 				plugin.PluginManager.DisablePlugin(plugin);
@@ -47,13 +47,13 @@ namespace BadWordsRemover
 			}
 		}
 		public void OnNicknameSet(PlayerNicknameSetEvent ev)
-        {
+        	{
 			if (ev.Player != null)
-            {
+            		{
 				foreach (string badword in File.ReadAllLines(dictionarypath))
-                {
+                		{
 					if(ev.Nickname.ToLower().Contains(badword.ToLower()))
-                    {
+                    			{
 						switch (mode.ToLower())
 						{
 							case "replace":
@@ -73,9 +73,9 @@ namespace BadWordsRemover
 								plugin.Warn("Config value bwr_replacer_mode is set incorrectly. Use replace or remove.");
 								break;
 						}
-                    }
-                }
-            }
-        }
+                    			}
+                		}
+			}
+        	}
 	}
 }
